@@ -1,0 +1,32 @@
+'
+
+
+Targted Location : Muscat Oman
+
+Focus: Fire Stations
+ Code: 4bf58dd8d48988d12c941735
+
+Issue: Number of fire station covering the capital 
+
+Questions : Is the number covering the capital meets the minmum Safety reqiurment ?
+
+solution : 
+ -analysing 3 major capitals in the region and putting into considiration the covarge distance and population distributioin
+ -applying avg. means on Muscat map , determinig the minimum needs numbers of fire stations and their location 
+ 
+
+  Focused Cities : 
+                   1-Dubai , UAE
+                   2-Doha , Qatar
+                   3-Riyadh , Ksa
+
+    
+    Steps : 
+            1- obtaining the data of the mentioned cities ; 
+                A- number on districts 
+                B- population of each district 
+                c- number of fire Stations in each district 
+
+            2- drive a relation and AVG.s measurment from the data 
+            3- apply on Muscat map 
+            4- vizualize the recomendent minimum and locations recomendations
